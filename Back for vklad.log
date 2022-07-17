@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Lenovo\Desktop\с++\Мои проекты\Приложение про вклад\Back for vklad\Back for vklad\Source.cpp(21,36): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lenovo\Desktop\с++\Мои проекты\Приложение про вклад\Back for vklad\Back for vklad\Source.cpp(22,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lenovo\Desktop\с++\Мои проекты\Приложение про вклад\Back for vklad\Back for vklad\Source.cpp(39,16): warning C4244: =: преобразование "long double" в "int", возможна потеря данных
+C:\Users\Lenovo\Desktop\с++\Мои проекты\Приложение про вклад\Back for vklad\Back for vklad\Source.cpp(19,9): warning C4101: b: неиспользованная локальная переменная
+  Back for vklad.vcxproj -> C:\Users\Lenovo\Desktop\с++\Мои проекты\Приложение про вклад\Back for vklad\Debug\Back for vklad.exe
